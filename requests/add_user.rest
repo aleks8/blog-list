@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/users
+//POST https://phonebook-backend-cool-waterfall-1089.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "username": "",
+    "name": "",
+    "password": ""
+}
